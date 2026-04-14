@@ -1,0 +1,10 @@
+# Ignore images
+bdd/images/**/*.jpg
+bdd/images/**/*.png
+
+# Ignore labels
+bdd/labels/**/*.json
+bdd/labels/**/*.txt
+
+# Ignore zip files
+*.zip
