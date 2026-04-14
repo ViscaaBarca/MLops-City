@@ -1,10 +1,20 @@
-# Ignore images
+# macOS
+.DS_Store
+
+# images
 bdd/images/**/*.jpg
+bdd/images/**/*.jpeg
 bdd/images/**/*.png
 
-# Ignore labels
+# labels
 bdd/labels/**/*.json
 bdd/labels/**/*.txt
 
-# Ignore zip files
+# zip
 *.zip
+
+# keep folder structure
+!bdd/images/train/.gitkeep
+!bdd/images/val/.gitkeep
+!bdd/labels/train/.gitkeep
+!bdd/labels/val/.gitkeep
