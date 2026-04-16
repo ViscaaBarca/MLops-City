@@ -1,14 +1,7 @@
 # macOS
 .DS_Store
 
-# images
-bdd/images/**/*.jpg
-bdd/images/**/*.jpeg
-bdd/images/**/*.png
 
-# labels
-bdd/labels/**/*.json
-bdd/labels/**/*.txt
 
 # zip
 *.zip
