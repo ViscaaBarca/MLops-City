@@ -1,0 +1,14 @@
+path: bdd
+
+train: images/train
+val: images/val
+
+names:
+  0: car
+  1: bus
+  2: truck
+  3: person
+  4: traffic_sign
+  5: traffic_light
+  6: bike
+  7: motor
