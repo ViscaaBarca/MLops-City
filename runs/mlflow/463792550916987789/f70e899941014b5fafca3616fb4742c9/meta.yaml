@@ -1,0 +1,14 @@
+artifact_uri: /Users/thidaratchuram/Documents/GitHub/MLops-City/runs/mlflow/463792550916987789/f70e899941014b5fafca3616fb4742c9/artifacts
+end_time: 1781639421895
+entry_point_name: ''
+experiment_id: '463792550916987789'
+lifecycle_stage: active
+run_id: f70e899941014b5fafca3616fb4742c9
+run_name: yolov8n_edge_model
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781638811528
+status: 3
+tags: []
+user_id: thidaratchuram

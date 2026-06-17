@@ -1,0 +1,9 @@
+artifact_location: /Users/thidaratchuram/Documents/GitHub/MLops-City/runs/mlflow/463792550916987789
+creation_time: 1781638811526
+effective_trace_archival_retention: null
+experiment_id: '463792550916987789'
+last_update_time: 1781638811526
+lifecycle_stage: active
+name: /Shared/YOLOv8_Traffic_Detection
+trace_location: null
+workspace: default
