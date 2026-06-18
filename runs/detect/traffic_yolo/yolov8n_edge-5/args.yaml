@@ -11,9 +11,9 @@ save: true
 save_period: -1
 cache: true
 device: cpu
-workers: 4
+workers: 0
 project: traffic_yolo
-name: yolov8n_edge-2
+name: yolov8n_edge-5
 exist_ok: false
 pretrained: true
 optimizer: AdamW
@@ -107,8 +107,4 @@ auto_augment: randaugment
 erasing: 0.4
 cfg: null
 tracker: botsort.yaml
-<<<<<<< Updated upstream
-save_dir: /Users/thidaratchuram/Documents/GitHub/MLops-City/runs/detect/traffic_yolo/yolov8n_edge-2
-=======
-save_dir: /Workspace/Users/20195060@student.hhs.nl/MLops-City/runs/detect/traffic_yolo/yolov8n_edge-2
->>>>>>> Stashed changes
+save_dir: /Workspace/Users/20195060@student.hhs.nl/MLops-City/runs/detect/traffic_yolo/yolov8n_edge-5

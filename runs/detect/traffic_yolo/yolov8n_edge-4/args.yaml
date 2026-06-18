@@ -11,7 +11,11 @@ save: true
 save_period: -1
 cache: true
 device: cpu
+<<<<<<< Updated upstream
 workers: 4
+=======
+workers: 0
+>>>>>>> Stashed changes
 project: traffic_yolo
 name: yolov8n_edge-4
 exist_ok: false
@@ -107,4 +111,8 @@ auto_augment: randaugment
 erasing: 0.4
 cfg: null
 tracker: botsort.yaml
+<<<<<<< Updated upstream
 save_dir: /Users/thidaratchuram/Documents/GitHub/MLops-City/runs/detect/traffic_yolo/yolov8n_edge-4
+=======
+save_dir: /Workspace/Users/20195060@student.hhs.nl/MLops-City/runs/detect/traffic_yolo/yolov8n_edge-4
+>>>>>>> Stashed changes

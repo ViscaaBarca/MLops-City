@@ -1,14 +1,12 @@
-path: bdd
-
-train: images/train
-val: images/val
-
 names:
   0: car
   1: bus
   2: truck
   3: person
-  4: traffic_sign
-  5: traffic_light
+  4: traffic sign
+  5: traffic light
   6: bike
   7: motor
+path: /Workspace/Users/20195060@student.hhs.nl/MLops-City/bdd
+train: images/train
+val: images/val

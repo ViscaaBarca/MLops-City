@@ -1,8 +1,13 @@
 task: detect
 mode: train
 model: yolov8n.pt
+<<<<<<< Updated upstream
 data: data.yaml
 epochs: 1
+=======
+data: /Workspace/Users/20195060@student.hhs.nl/MLops-City/data.yaml
+epochs: 50
+>>>>>>> Stashed changes
 time: null
 patience: 10
 batch: 16
@@ -107,4 +112,8 @@ auto_augment: randaugment
 erasing: 0.4
 cfg: null
 tracker: botsort.yaml
+<<<<<<< Updated upstream
 save_dir: /Users/thidaratchuram/Documents/GitHub/MLops-City/runs/detect/traffic_yolo/yolov8n_edge-3
+=======
+save_dir: /Workspace/Users/20195060@student.hhs.nl/MLops-City/runs/detect/traffic_yolo/yolov8n_edge-3
+>>>>>>> Stashed changes
