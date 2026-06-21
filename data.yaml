@@ -7,6 +7,6 @@ names:
   5: traffic light
   6: bike
   7: motor
-path: /Workspace/Users/20195060@student.hhs.nl/MLops-City/bdd
+path: /Users/thidaratchuram/Documents/GitHub/MLops-City/bdd
 train: images/train
 val: images/val
