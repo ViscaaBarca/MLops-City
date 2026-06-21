@@ -1,4 +1,6 @@
 # Gebruik een lichte Python basis-image
+
+
 FROM python:3.9-slim
 
 # Omdat we PySpark gebruiken, hebben we Java nodig in de container

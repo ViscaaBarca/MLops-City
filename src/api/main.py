@@ -1,3 +1,8 @@
+# RUN DIT IN JE TERMINAL OM DE API TE STARTEN:
+### cd src/api
+### uvicorn main:app --reload
+
+
 from fastapi import FastAPI
 from pydantic import BaseModel
 from pyspark.sql import SparkSession
